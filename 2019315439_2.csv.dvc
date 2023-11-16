@@ -1,0 +1,6 @@
+outs:
+- md5: 99ebe5ae0ae198e7929ec75e561a7b5b.dir
+  size: 3050012
+  nfiles: 2
+  hash: md5
+  path: '2019315439_2.csv'
